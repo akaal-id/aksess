@@ -1,0 +1,8 @@
+{
+  "name": "Aksess-1-4",
+  "description": "Aksess adalah platform terintegrasi untuk manajemen event dan penjualan tiket (B2C/B2B/B2G). Temukan, kelola, dan hadiri event dengan mudah.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "prompt": ""
+}
